@@ -1,0 +1,1 @@
+spring.data.mongodb.uri=mongodb://localhost:27017/db-product-credit#spring.application.name=servicio-prodbankeureka.client.service-url.defaultZone=http://eureka-serverv1:8761/eureka#server.port=8081server.port=${PORT:0}
