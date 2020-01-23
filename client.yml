@@ -1,1 +1,0 @@
-spring.data.mongodb.uri=mongodb://localhost:27017/db-clienteureka.client.service-url.defaultZone=http://localhost:8761/eurekaserver.port=${PORT:0}
